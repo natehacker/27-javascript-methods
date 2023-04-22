@@ -1,5 +1,4 @@
 
-
 let laptop = {
     cpu:'i9',
     ram:16,
@@ -10,3 +9,6 @@ let laptop = {
     }
 }
 laptop.greet();
+
+
+
