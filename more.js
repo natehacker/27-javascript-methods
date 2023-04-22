@@ -19,3 +19,5 @@ return `${this.title} was written by ${this.author} in ${this.year}`;
     }
 }
 console.log(Object.values(book2))
+//object kets
+console.log(Object.keys(book2))
